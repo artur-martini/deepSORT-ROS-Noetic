@@ -3,8 +3,8 @@
 The main goal off this project is to integrate a Deep Learning framework with the robotics middleware ROS. The main tasks are:
 
 - Use the YOLO-v4 with PyTorch framework to create the Deep Learning model, which is the "AI" part of the system.
-- Deploy the Deep Learning model with the NVIDIA TensorRT framework (gotta go fast xD)
-- Use c++ to implement the tracker algorithm (Python is slow, C++ goes brrrrrrr)
+- Deploy the Deep Learning model with the NVIDIA TensorRT framework 
+- Use c++ to implement the tracker algorithm 
 
 Sub tasks:
 
